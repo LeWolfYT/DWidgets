@@ -8,8 +8,8 @@ Planned widgets:
   Notepad
 
 Current widgets:
-  Clock
-  Thermometer (F/C)
-  Stopwatch
-  Timer
-  Calculator
+  - Clock
+  - Thermometer (F/C)
+  - Stopwatch
+  - Timer
+  - Calculator
