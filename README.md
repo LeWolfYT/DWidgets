@@ -1,11 +1,11 @@
 # DWidgets - The simple widgets app made with Python
 #### (Github copilot helped a lot.)
 
-DWidgets has simple desktop widgets that can help you in day-to-day tasks like checking the weather.
+DWidgets has simple desktop widgets that can help you in day-to-day tasks like checking the temperature.
 Planned widgets:
-  Weather (Updated thermometer)
-  Calendar
-  Notepad
+  - Weather (Updated thermometer)
+  - Calendar
+  - Notepad
 
 Current widgets:
   - Clock
